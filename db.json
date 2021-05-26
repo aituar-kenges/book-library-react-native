@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "1984",
+      "description": "«1984» — роман-антиутопия Джорджа Оруэлла, изданный в 1949 году. Роман «1984",
+      "rating": 4.4,
+      "liked": false
+    },
+    {
+      "id": 2,
+      "name": "1985",
+      "description": "«1985» — роман-антиутопия Джорджа Оруэлла, изданный в 1949 году. Роман «1984",
+      "rating": 4.4,
+      "liked": false
+    },
+    {
+      "id": 3,
+      "name": "1986",
+      "description": "«1986» — роман-антиутопия Джорджа Оруэлла, изданный в 1949 году. Роман «1984",
+      "rating": 4.4,
+      "liked": false
+    },
+    {
+      "name": "Asdfasdf",
+      "description": "Asdfasdf",
+      "liked": "false",
+      "rating": 2.3,
+      "id": 4
+    },
+    {
+      "name": "Asdfasdf",
+      "description": "Descsdf",
+      "liked": "false",
+      "rating": "3.2",
+      "id": 5
+    }
+  ]
+}
