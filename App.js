@@ -1,4 +1,4 @@
-// Aida Ualibekova, 20MD0242
+// Aituar Kenges, 20MD0179
 
 import React from 'react';
 import type {Node} from 'react';
